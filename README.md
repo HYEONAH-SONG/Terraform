@@ -1,4 +1,4 @@
-![](C:\Users\송현아\Desktop\블로그 이미지\terraform.png)
+![](https://github.com/HYEONAH-SONG/Terraform/blob/master/img/terraform.png?raw=true)
 
 ## Terraform introduction 🐳
 

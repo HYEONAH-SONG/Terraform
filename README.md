@@ -1,6 +1,6 @@
-![](https://github.com/HYEONAH-SONG/Terraform/blob/master/img/terraform.png?raw=true)
+![](https://d2uleea4buiacg.cloudfront.net/files/8c7/8c7e6ba6534dedf5c5396faf3bc91989e71427d4d156783d54b4d7e4bce84c32.m.png)
 
-## Terraform introduction 🐳
+## Terraform introduction 
 
 Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
